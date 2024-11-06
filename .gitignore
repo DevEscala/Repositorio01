@@ -1,0 +1,18 @@
+# Ignorar la carpeta de dependencias
+node_modules/
+
+package-lock.json
+
+# Ignorar archivos de configuración de desarrollo
+.env
+
+# Ignorar archivos de compilación y distribución
+dist/
+build/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de logs
+*.log
